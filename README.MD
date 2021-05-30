@@ -78,5 +78,6 @@ You can try playing the game here https://hangmanwordgame.com/
   * Go to Words.py and uncomment line 15 to 19 to test.
   * Test your code with multiple inputs to see if it works fine
 
-  
+  ### Made with ♥ by Aditaya Burnwal
+
 
